@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gridview-react-assignment/static/css/main.e3534549.css",
+    "main.js": "/gridview-react-assignment/static/js/main.58ad46ab.js",
+    "static/js/787.b5842aee.chunk.js": "/gridview-react-assignment/static/js/787.b5842aee.chunk.js",
+    "index.html": "/gridview-react-assignment/index.html",
+    "main.e3534549.css.map": "/gridview-react-assignment/static/css/main.e3534549.css.map",
+    "main.58ad46ab.js.map": "/gridview-react-assignment/static/js/main.58ad46ab.js.map",
+    "787.b5842aee.chunk.js.map": "/gridview-react-assignment/static/js/787.b5842aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3534549.css",
+    "static/js/main.58ad46ab.js"
+  ]
+}
